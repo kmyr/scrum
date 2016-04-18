@@ -17,5 +17,9 @@
     "minimist": "^1.2.0",
     "npm-latest": "^1.0.1",
     "semver": "^5.1.0"
+  },
+  "engineStrict": true
+  "engines": {
+    "node": ">=4.4.0"
   }
 }
