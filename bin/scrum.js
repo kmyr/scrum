@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node --harmony
 "use strict";
 
 const cli = require("../lib/cli");
